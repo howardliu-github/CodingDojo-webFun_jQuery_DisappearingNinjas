@@ -1,0 +1,27 @@
+* {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    border: 1px solid black;
+    width: 1000px;
+    height: 490px;
+    margin: 10px;
+}
+
+img {
+    border: 1px solid black;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+button {
+    width: 100px;
+    font-weight: bolder;
+    background-color: black;
+    color: white;
+}
